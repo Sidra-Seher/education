@@ -340,6 +340,15 @@ i{
     color: #fff;
     border-color: #FF1949;
     justify-content: center;
+    font-weight: 700;
+    position: relative;
+    text-transform: capitalize;
+    padding: 20px 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: "Quicksand", sans-serif;
+    border: 1px solid transparent;
+    margin: 10px;
 }
 .fa-list{
     margin-right: 0.5rem !important;
